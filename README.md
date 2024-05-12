@@ -1,4 +1,4 @@
 # Cat-Image-Gallery-Project
 Simple HTML + CSS projects to learn the basics of Flexbox and some of the propeties associated with it. Learned about flex-direction and the associated main/cross axises. Also learned about flex-wrap. Learned about justify-content and align-items and their respective relations to the main and cross axis. Learned about the gap property which adds space/gutters between flex items. Learned about how you can use pseudo-element selectors to insert content at the end of a container. For the images themselves learned about
 box-sizing and how border-box includes paddings,borders etc in the boxes sizing. Use object-fit: cover to fit the dimensions of a container thropugh scaling while maintaining aspect ratio.
-https://jonathan-scruggs.github.io/Cat-Image-Gallery-Project/
+https://jonathan-scruggs.github.io/Cat-Image-Gallery-Project/ FreeCodeCamp Project
